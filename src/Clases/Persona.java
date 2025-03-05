@@ -32,7 +32,7 @@ public class Persona {
         direccion= JOptionPane.showInputDialog("Ingrese la dirección");
         ciudadDeProcedencia= JOptionPane.showInputDialog("Ingrese la dirección de procedencia");
     }
-    public void registrarCitaMedica(){
+    public void registrarCitaMedica(CitaMedica miCita){
 
     }
 

@@ -14,6 +14,7 @@ public class EmpleadoEventual extends Empleado{
 
     }
 
+
     @Override
     public void imprimirDatosPersonas(String datos){
         super.imprimirDatosPersonas(datos);
